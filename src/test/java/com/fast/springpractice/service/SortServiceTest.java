@@ -1,6 +1,6 @@
-package com.fast.sprintpractice.service;
+package com.fast.springpractice.service;
 
-import com.fast.sprintpractice.logic.JavaSort;
+import com.fast.springpractice.logic.JavaSort;
 import org.junit.jupiter.api.Test;
 
 import java.util.List;

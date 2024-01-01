@@ -1,6 +1,6 @@
-package com.fast.sprintpractice.service;
+package com.fast.springpractice.service;
 
-import com.fast.sprintpractice.logic.Sort;
+import com.fast.springpractice.logic.Sort;
 import org.springframework.beans.factory.annotation.Qualifier;
 import org.springframework.stereotype.Service;
 

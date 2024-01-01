@@ -1,4 +1,4 @@
-package com.fast.sprintpractice.logic;
+package com.fast.springpractice.logic;
 
 import java.util.List;
 
