@@ -1,7 +1,6 @@
-package com.fastcampus.javaoop.service;
+package com.fast.sprintpractice.service;
 
-import com.fastcampus.javaoop.logic.BubbleSort;
-import com.fastcampus.javaoop.logic.JavaSort;
+import com.fast.sprintpractice.logic.JavaSort;
 import org.junit.jupiter.api.Test;
 
 import java.util.List;
